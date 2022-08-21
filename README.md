@@ -1,0 +1,2 @@
+# CVSGodMode
+script i made
